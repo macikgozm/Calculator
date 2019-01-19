@@ -14,7 +14,7 @@ public class Calculator {
 
     }
     
-    // add multiply method
+    // add multiply method Mehhemt Acikgoz
     public static double multiply(double num1, double num2){
         return num1*num2;
     }
